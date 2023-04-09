@@ -13,6 +13,11 @@ The dashboard includes the following features:
 - Country area, Population Desnity and other informations related to Geograpy
 - country information, including name, capital, Flag, Symbol
 - Country filter to allow users to focus on specific regions
+<img src="https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI/blob/main/Images/c1.jpg" alt="Alt text" style="width:500px;height:300px;">
+<img src="https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI/blob/main/Images/c2.jpg" alt="Alt text" style="width:500px;height:300px;">
+<img src="https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI/blob/main/Images/c3.jpg" alt="Alt text" style="width:500px;height:300px;">
+
+
 ## REST Countries API
 
 REST Countries is a popular API that provides information about countries, including their flag, population, and currency.

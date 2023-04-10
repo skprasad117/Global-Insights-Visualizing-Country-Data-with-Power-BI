@@ -1,7 +1,7 @@
 # Global Insights: A Power BI Dashboard of Country Information
 
 This Power BI dashboard uses the REST Countries API to visualize data about countries around the world. It provides insights into various characteristics of countries, including their population, area, and currency.
-[Click here to view the code for the Global Insights Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjczYmVkOTEtMDcyYy00NDBlLWE1NjgtYjE2NmIzNDQ3Y2E4IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection)
+[Click here to view the Dashboard for the Global Insights Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjczYmVkOTEtMDcyYy00NDBlLWE1NjgtYjE2NmIzNDQ3Y2E4IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection)
 
 
 ## Features
